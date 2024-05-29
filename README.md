@@ -162,7 +162,8 @@ If you want to see suggestions in code
 
 `Custom screens size TailwindCSS`
 
-![code](https://github.com/thekinv21/tailwind-css-scss/assets/92122363/a2a30eb0-30cc-4e04-9c62-8f0dab37e881)
+![code](https://github.com/thekinv21/tailwind-css-scss/assets/92122363/53d3bbd0-3d46-4dd9-838a-9978e6f9ba90)
+
 
 
 
