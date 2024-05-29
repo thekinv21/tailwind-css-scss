@@ -12,10 +12,10 @@ export default {
 			lg: '834px',
 			// => @media (min-width: 834px) { ... }
 
-			laptop: '1440px',
+			xl: '1440px',
 			// => @media (min-width: 1440px) { ... }
 
-			desktop: '1500px'
+			'2xl': '1500px'
 			// => @media (min-width: 1500px) { ... }
 		},
 
